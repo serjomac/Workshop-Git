@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Taller de Git</title>
@@ -14,7 +14,14 @@
 				<a href="./participantes/giannicarlo.html">Gianni Carlo</a>
 			</li>
 			<li>
-				<a href="./participantes/jonathan.html">Jonathan Macias</a>
+			<a href="./participantes/jonathan.html">Jonathan Macias</a>
+			</li>
+			<li>
+				
+				<a href="./participantes/eslozano.html">Estefania Lozano</a>
+			</li>
+			<li>			
+				<a href="./participantes/ajortiz.html">AJ Ortiz</a>
 			</li>
 		</ul>
 	</div>
