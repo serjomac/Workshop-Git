@@ -1,0 +1,22 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<title>Taller de Git</title>
+</head>
+<body>
+	<div id="header">
+		<h1>Taller de Git</h1>
+	</div>
+	<div id="body">
+		<img src="../images/imagen.jpg" alt="" width="100px" height="160px">
+		<ul>
+			<li>
+			Jonathan Macias Lopez
+			</li>
+			<li>natholopez_95@live.com</li>
+			<li>Jugar play - futbol - tocar guitarra</li>
+			<li>5to semestre diseño web y aplicaciones</li>
+		</ul>
+	</div>
+</body>
+</html>
